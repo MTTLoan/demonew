@@ -1,0 +1,6 @@
+# lấy trên web gitignore
+
+### Node ###
+# Logs
+logs
+*.log
